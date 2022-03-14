@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ui/static/css/main.ce2bf04a.css",
+    "main.js": "/ui/static/js/main.3259def5.js",
+    "static/media/linux.svg": "/ui/static/media/linux.ff969ad1bae76cb9a7cc6aca65fd15f5.svg",
+    "static/media/encode-sans-v7-latin-regular.woff": "/ui/static/media/encode-sans-v7-latin-regular.1f9ac7fd96464131b079.woff",
+    "static/media/encode-sans-v7-latin-regular.woff2": "/ui/static/media/encode-sans-v7-latin-regular.0665411e45d6cb8e7c5d.woff2",
+    "static/media/safari.svg": "/ui/static/media/safari.b8bf72ee61f58c60edb2ffa27b172d07.svg",
+    "static/media/firefox.svg": "/ui/static/media/firefox.efda58979e042bab7c689eab277b5a5d.svg",
+    "static/media/chrome.svg": "/ui/static/media/chrome.191aefd5192c43508fa5f86da6808929.svg",
+    "static/media/edge.svg": "/ui/static/media/edge.d2a278165ff8e7dcc4af17246954a0e1.svg",
+    "static/media/selenium-grid-logo.svg": "/ui/static/media/selenium-grid-logo.86cdb73d38521c0e49691666db832e49.svg",
+    "static/media/unknown.svg": "/ui/static/media/unknown.053aec7b9b21b11287ed4f617cc0ac4d.svg",
+    "static/media/mac.svg": "/ui/static/media/mac.348e84b8ff07c917032f435ba576a0fe.svg",
+    "static/media/opera.svg": "/ui/static/media/opera.b65596581939839e3bb1bd80706b9e45.svg",
+    "static/media/windows.svg": "/ui/static/media/windows.680a11acd0ab401f69e83c7caba17dc0.svg",
+    "static/media/android.svg": "/ui/static/media/android.53b6327754144dbb2eb23411963b28ec.svg",
+    "index.html": "/ui/index.html",
+    "main.ce2bf04a.css.map": "/ui/static/css/main.ce2bf04a.css.map",
+    "main.3259def5.js.map": "/ui/static/js/main.3259def5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2bf04a.css",
+    "static/js/main.3259def5.js"
+  ]
+}
